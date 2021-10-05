@@ -1,0 +1,22 @@
+﻿using Proje.JWT.Entities.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq.Expressions;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Proje.JWT.DataAccess.Interfaces
+{
+    // Gelen TEntity Bir class olacak ITable olacak ve newlenebilir olacak.
+    public interface IGenericDal<TEntity> where TEntity:class,ITable,new ()
+    {
+        Task<List<TEntity>> GetAll();
+
+        Task<List<TEntity>> GetAllByFilter(Expression<Func<TEntity, bool>> filter);
+        Task<TEntity> GetById(int id);
+        Task<TEntity> GetByFilter(Expression<Func<TEntity, bool>> filter);
+        Task Update(TEntity entity);
+        Task Remove(TEntity entity);
+        Task Add(TEntity entity);
+    }
+}

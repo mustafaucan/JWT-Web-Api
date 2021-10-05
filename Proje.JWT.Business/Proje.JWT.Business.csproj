@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Proje.JWT.DataAccess\Proje.JWT.DataAccess.csproj" />
+    <ProjectReference Include="..\Proje.JWT.Entities\Proje.JWT.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\bin\Debug\netcoreapp3.1\Proje.JWT.DataAccess.deps.json
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\bin\Debug\netcoreapp3.1\Proje.JWT.DataAccess.runtimeconfig.json
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\bin\Debug\netcoreapp3.1\Proje.JWT.DataAccess.runtimeconfig.dev.json
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\bin\Debug\netcoreapp3.1\Proje.JWT.DataAccess.dll
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\bin\Debug\netcoreapp3.1\Proje.JWT.DataAccess.pdb
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\bin\Debug\netcoreapp3.1\Proje.JWT.Entities.dll
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\bin\Debug\netcoreapp3.1\Proje.JWT.Entities.pdb
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\obj\Debug\netcoreapp3.1\Proje.JWT.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\obj\Debug\netcoreapp3.1\Proje.JWT.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\obj\Debug\netcoreapp3.1\Proje.JWT.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\obj\Debug\netcoreapp3.1\Proje.JWT.DataAccess.AssemblyInfo.cs
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\obj\Debug\netcoreapp3.1\Proje.JWT.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\obj\Debug\netcoreapp3.1\Proje.JWT.DataAccess.csproj.CopyComplete
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\obj\Debug\netcoreapp3.1\Proje.JWT.DataAccess.dll
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\obj\Debug\netcoreapp3.1\Proje.JWT.DataAccess.pdb
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.DataAccess\obj\Debug\netcoreapp3.1\Proje.JWT.DataAccess.genruntimeconfig.cache

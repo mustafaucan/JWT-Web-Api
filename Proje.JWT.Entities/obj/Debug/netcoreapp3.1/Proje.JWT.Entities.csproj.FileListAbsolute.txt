@@ -1,0 +1,13 @@
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\bin\Debug\netcoreapp3.1\Proje.JWT.Entities.deps.json
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\bin\Debug\netcoreapp3.1\Proje.JWT.Entities.runtimeconfig.json
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\bin\Debug\netcoreapp3.1\Proje.JWT.Entities.runtimeconfig.dev.json
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\bin\Debug\netcoreapp3.1\Proje.JWT.Entities.dll
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\bin\Debug\netcoreapp3.1\Proje.JWT.Entities.pdb
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\obj\Debug\netcoreapp3.1\Proje.JWT.Entities.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\obj\Debug\netcoreapp3.1\Proje.JWT.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\obj\Debug\netcoreapp3.1\Proje.JWT.Entities.AssemblyInfoInputs.cache
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\obj\Debug\netcoreapp3.1\Proje.JWT.Entities.AssemblyInfo.cs
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\obj\Debug\netcoreapp3.1\Proje.JWT.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\obj\Debug\netcoreapp3.1\Proje.JWT.Entities.dll
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\obj\Debug\netcoreapp3.1\Proje.JWT.Entities.pdb
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Entities\obj\Debug\netcoreapp3.1\Proje.JWT.Entities.genruntimeconfig.cache

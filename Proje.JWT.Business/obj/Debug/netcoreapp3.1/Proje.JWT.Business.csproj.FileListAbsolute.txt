@@ -1,0 +1,15 @@
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\bin\Debug\netcoreapp3.1\Proje.JWT.Business.deps.json
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\bin\Debug\netcoreapp3.1\Proje.JWT.Business.dll
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\bin\Debug\netcoreapp3.1\Proje.JWT.Business.pdb
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\bin\Debug\netcoreapp3.1\Proje.JWT.DataAccess.dll
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\bin\Debug\netcoreapp3.1\Proje.JWT.Entities.dll
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\bin\Debug\netcoreapp3.1\Proje.JWT.DataAccess.pdb
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\bin\Debug\netcoreapp3.1\Proje.JWT.Entities.pdb
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\obj\Debug\netcoreapp3.1\Proje.JWT.Business.csproj.AssemblyReference.cache
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\obj\Debug\netcoreapp3.1\Proje.JWT.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\obj\Debug\netcoreapp3.1\Proje.JWT.Business.AssemblyInfoInputs.cache
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\obj\Debug\netcoreapp3.1\Proje.JWT.Business.AssemblyInfo.cs
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\obj\Debug\netcoreapp3.1\Proje.JWT.Business.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\obj\Debug\netcoreapp3.1\Proje.JWT.Business.csproj.CopyComplete
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\obj\Debug\netcoreapp3.1\Proje.JWT.Business.dll
+C:\Users\Jonas\Desktop\ASP.NET CORE JWT Isınma Projesi\JWT\Proje.JWT.Business\obj\Debug\netcoreapp3.1\Proje.JWT.Business.pdb
